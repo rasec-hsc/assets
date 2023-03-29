@@ -67,8 +67,14 @@ figure{
 
  }
  #familia-pelho{
-    float:right;
+    display: flex;
+    justify-content: center;
     margin: 0 0 10px 10px;
+ }
+ #familha{
+   text-align: center;
+   font-weight: bold;
+   border-bottom: ridge 3px;
  }
 
 
